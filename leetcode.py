@@ -1,2 +1,2 @@
 print('febr')
-print('fbd')##############
+print('fbd')
