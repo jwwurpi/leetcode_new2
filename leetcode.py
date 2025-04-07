@@ -1,7 +1,4 @@
-print('febr')
-print('fbd')
-#tt,,
-#bnbnn
+import random
 
-
-#aa
+while (value:= random.randint(1, 20)) < 18:
+    print(value)
